@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jKRlKSKNVWXuEKNvVBgedSCyRxu5eJ096TKh9sQ4strJtmpKBDdo0DHUCmflPSUbQcEko6RQFSyF7o2D0rTYw==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Metro Data\\week 2\\23-8-2021\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MZ17\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
